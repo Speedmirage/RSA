@@ -4,7 +4,7 @@ This program implements the RSA protocol on a python based project. This is your
 
 ## Known Limitations
 
-As of right now the program does not allow for the decryption of a custom message (meaning with custom N & D). This ability will for sure come is version 2.0
+As of right now the program does not allow for the decryption of a custom message (meaning with custom N & D). This ability will for sure come is **version 2.0**
 
 ## How to run it?
 
