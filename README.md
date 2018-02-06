@@ -8,7 +8,7 @@ As of right now the program does not allow for the decryption of a custom messag
 
 ## How to run it?
 
-1. Just run it [here]() and follow the on screen promts :)
+1. Just run it [here](https://repl.it/@Speedmirage/RSA-Encryption-and-Decryption) and follow the on screen promts :)
 2. Happy encrypting.
 
 **_________________________________________________**
