@@ -6,6 +6,8 @@ This program implements the RSA protocol on a python based project. This is your
 
 As of right now the program does not allow for the decryption of a custom message (meaning with custom N & D). This ability will for sure come is **version 2.0**
 
+*Please note:* The program will first look for two prime numbers and then work itself throught the algorithm from there :)
+
 ## How to run it?
 
 1. Just run it [here](https://repl.it/@Speedmirage/RSA-Encryption-and-Decryption) and follow the on screen promts :)
